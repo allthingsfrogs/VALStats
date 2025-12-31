@@ -1,5 +1,8 @@
-# raw data
-data/raw/
+# Ignore data directory
+data/
+
+# Ignore macOS system files
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
